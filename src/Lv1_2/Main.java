@@ -1,10 +1,9 @@
-package Lv1;
+package Lv1_2;
 
 public class Main {
     public static void main(String[] args) {
 
-        BaseBallGame baseBallGame = new Lv1.BaseBallGame();
-
+        BaseBallGame baseBallGame = new BaseBallGame();
         System.out.println(baseBallGame.answerSet);
         baseBallGame.gamePlay();
     }
