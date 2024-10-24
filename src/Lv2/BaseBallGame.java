@@ -101,7 +101,6 @@ public class BaseBallGame {
                 break;
 
             case '3':
-                inputSet.clear();
                 answerSet.clear();
                 break;
 
