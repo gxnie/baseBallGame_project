@@ -1,4 +1,4 @@
-package Lv1_2;
+package Lv2;
 
 public class Main {
     public static void main(String[] args) {
